@@ -13,9 +13,7 @@ def monopoly_with_second_tier
   # complexity.
   :railroads => {
     pieces: "4",
-    rent_in_money: "4",
-    
-  }
+    }
 end
 
 def monopoly_with_third_tier
